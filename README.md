@@ -20,7 +20,7 @@ This [code](AR_invisibility_Cloak.py) turns a `red` colour cloth into an invisib
 
 #### Clone
 
-- Clone this repo to your local machine using `https://github.com/kaustubh-sadekar/Invisibility_Cloak.git`
+- Clone this repo to your local machine using `https://github.com/urvindesai/Invisibility-Cloak`
 
 #### Setup/Requirements
 
